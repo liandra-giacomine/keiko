@@ -1,5 +1,4 @@
 window.addEventListener("load", function(event) {
-	loadStyleSheet('css/bootstrap.css')
 	loadStyleSheet('css/owl.transitions.css')
 	loadStyleSheet('css/owl.carousel.css')
 	loadStyleSheet('css/animate.css')
